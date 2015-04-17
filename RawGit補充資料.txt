@@ -5,3 +5,6 @@
 
 如何使用RawGit與使用CDN
 	http://www.dotblogs.com.tw/brooke/archive/2015/04/09/150989.aspx
+
+如何將 Visual Studio 2013 現有專案加到 GitHub 遠端儲存庫
+	http://blog.miniasp.com/post/2013/11/09/How-to-Add-Solution-to-GitHub-through-Git-extension-in-Visual-Studio-2013.aspx
